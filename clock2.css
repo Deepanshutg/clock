@@ -1,0 +1,12 @@
+#clock {
+    font-size: 200px;
+    width: 1200px;
+    margin: 200px;
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 200px ;
+    background-color:skyblue;
+    background-image:url(https://image.shutterstock.com/image-vector/charming-dolphin-playing-coral-reef-260nw-1715054986.jpg);
+
+    border-bottom: thin red dotted
+}
